@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">phoneContacts</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_name"> Name</string>
+    <string name="default_surname"> Surname</string>
+    <string name="phone_number">Phone number:</string>
+    <string name="birth_date">Birth date:</string>
+    <string name="slash">/</string>
+    <string name="default_phone">000000000</string>
+    <string name="default_day">01</string>
+    <string name="default_month">01</string>
+    <string name="default_year">2000</string>
+    <string name="display_birth">%1$s/%2$s/%3$s</string>
+    <string name="content_view">%1$s %2$s</string>
+</resources>
